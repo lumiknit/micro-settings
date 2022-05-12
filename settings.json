@@ -6,7 +6,7 @@
     "backup": true,
     "basename": false,
     "colorcolumn": 0,
-    "colorscheme": "default",
+    "colorscheme": "simple",
     "comment": true,
     "cursorline": false,
     "diff": true,
