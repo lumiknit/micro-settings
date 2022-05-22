@@ -42,7 +42,6 @@
     "Alt-.": "NextTab",
     "Alt-<": "CursorStart",
     "Alt->": "CursorEnd",
-    "Alt-/": "Find",
     "Alt-MouseLeft": "MouseMultiCursor",
     "Alt-D": "SpawnMultiCursor",
     "Alt-C": "RemoveAllMultiCursors",
