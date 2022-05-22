@@ -83,4 +83,7 @@
     "\u001b[1;2C": "SelectRight",
     "\u001b[1;2A": "SelectUp",
     "\u001b[1;2B": "SelectDown",
+    "command": {
+      "Ctrl-g": "AbortCommand"
+    }
 }
